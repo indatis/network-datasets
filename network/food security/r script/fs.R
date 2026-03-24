@@ -73,7 +73,7 @@ View(fs_im)
 
 #### extract the final data
 write.csv(fs_im, "network/food security/csv/food securty import.csv", row.names = FALSE)
-
+write.csv(fs_im, "network/food security/csv/food securty export.csv", row.names = FALSE)
 
 ############################### visualization for both########################@
 # Create the graph object
