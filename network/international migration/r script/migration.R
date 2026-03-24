@@ -5,7 +5,7 @@ library(dplyr)
 library(writexl)
 library(readr)
 library(readxl)
-df <- read_excel("Desktop/Master /intern/dataset/international Migration/undesa_pd_2024_ims_stock_by_sex_destination_and_origin.xlsx", 
+df <- read_excel(network/international migration/original/undesa_pd_2024_ims_stock_by_sex_destination_and_origin.xlsx", 
                  sheet = "Table 1", range = "A11:O24081")
 View(df)
 
