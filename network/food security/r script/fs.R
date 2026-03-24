@@ -3,7 +3,7 @@ library(tidygraph)
 library(ggraph)
 library(readr)
 library(dplyr)
-fs <- read_csv("Desktop/Master /intern/dataset/food security/food security in eu.csv")
+fs <- read_csv("network/food security/original/food security in eu.csv")
 View(fs)
 
 library(dplyr)
