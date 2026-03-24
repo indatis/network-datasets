@@ -4,7 +4,7 @@ library(tidyr)
 library(tidyverse)
 library(tidygraph)
 library(ggraph)
-df<- read_csv("Desktop/Master /intern/dataset/borrowing dataset/bollowing 2005_.csv")
+df<- read_csv("network/Borrower detection in global financial network/original/borrowing 2005_.csv")
 head(df)
 View(df)
 names(df)
@@ -40,7 +40,7 @@ bf <- bf %>%
     destination = replace_na(destination, "0"),
     
     # Convert date columns to numeric AND then replace NA with 0
-    # Note: R will give a "NAs introduced by coercion" warning—this is fine!
+    # Note: R will give a "NAs introduced by coercion" warningâ€”this is fine!
     # it just means it's turning text like ".." into NA so we can make them 0.
     `2005_Q3` = replace_na(as.numeric(`2005_Q3`), 0),
     `2005_Q2` = replace_na(as.numeric(`2005_Q2`), 0),
