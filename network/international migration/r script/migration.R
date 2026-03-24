@@ -67,7 +67,7 @@ names(df_)
 View(df_c)
 df_c = df_c[,c(2,1,3,4,5,6,7,8,9)]
 df_c
-write.csv(df_c, "selected_countries_dataset.csv", row.names = FALSE)
+write.csv(df_c, "network/international migration/csv/selected_countries_dataset.csv", row.names = FALSE)
 
 ######ploting the graph
 graph <- as_tbl_graph(df_c, directed = TRUE)
