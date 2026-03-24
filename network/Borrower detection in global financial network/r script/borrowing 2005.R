@@ -57,7 +57,7 @@ View(bf)
 
 ###to extract
 
-write.csv(bf,"borrowing data 2005_.csv", row.names = FALSE)
+write.csv(bf,"network/Borrower detection in global financial network/csv/borrowing data 2005.csv", row.names = FALSE)
 
 
 ############################### visualization for both########################@
