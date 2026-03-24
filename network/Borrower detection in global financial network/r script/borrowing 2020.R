@@ -51,7 +51,7 @@ head(bf)
 
 
 
-write.csv(bf,"borrowing data 2020.csv", row.names = FALSE)
+write.csv(bf,"network/Borrower detection in global financial network/csv/borrowing data 2020.csv", row.names = FALSE)
 
 ############################### visualization for both########################@
 # Create the graph object
