@@ -1,0 +1,115 @@
+﻿Custom table,Dataflow,Dataflow name,Timespan,Last update of data,Downloaded at,Source,Source URL,Download URL,About Consolidated banking statistics
+,"BIS,WS_CBS_PUB,1.0",Consolidated banking,2005-03-31 - 2005-12-31,2026-03-16,2026-03-19 13:40 CET,BIS,https://data.bis.org/topics/CBS/data?data_view=table&rows=L_REP_CTY%7CL_CP_COUNTRY&cols=TIME_PERIOD&filter=L_REP_CTY_TXT%3DBelgium%257CCanada%257CFrance%257CGermany%257CItaly%257CJapan%257CNetherlands%257CSweden%257CSwitzerland%257CUnited%2520Kingdom%257CUnited%2520States%255EREM_MATURITY%3DA%255EL_CP_COUNTRY_TXT%3DBelgium%257CCanada%257CFrance%257CGermany%257CItaly%257CJapan%257CNetherlands%257CSweden%257CSwitzerland%257CUnited%2520Kingdom%257CUnited%2520States%255EL_MEASURE%3DS%255ECURR_TYPE_BOOK%3DTO1%255EL_POSITION%3DC%255EL_INSTR%3DA%255EL_CP_SECTOR%3DA%255ECBS_BANK_TYPE%3D4B%255ECBS_BASIS%3DU%255ETIMESPAN%3D2005-01-01_2005-10-01,https://data.bis.org/topics/CBS/data?data_view=table&rows=L_REP_CTY%7CL_CP_COUNTRY&cols=TIME_PERIOD&filter=L_REP_CTY_TXT%3DBelgium%257CCanada%257CFrance%257CGermany%257CItaly%257CJapan%257CNetherlands%257CSweden%257CSwitzerland%257CUnited%2520Kingdom%257CUnited%2520States%255EREM_MATURITY%3DA%255EL_CP_COUNTRY_TXT%3DBelgium%257CCanada%257CFrance%257CGermany%257CItaly%257CJapan%257CNetherlands%257CSweden%257CSwitzerland%257CUnited%2520Kingdom%257CUnited%2520States%255EL_MEASURE%3DS%255ECURR_TYPE_BOOK%3DTO1%255EL_POSITION%3DC%255EL_INSTR%3DA%255EL_CP_SECTOR%3DA%255ECBS_BANK_TYPE%3D4B%255ECBS_BASIS%3DU%255ETIMESPAN%3D2005-01-01_2005-10-01&file_format=csv&format=long&split_frequencies=false&transposed=false&include=code%2Clabel,https://data.bis.org/topics/CBS
+
+Reporting country,Counterparty country,2005-12-31,2005-09-30,2005-06-30,2005-03-31
+Belgium,Canada,2848.0,3715.0,3226.0,3624.0
+Belgium,France,74955.0,67963.0,75660.0,73760.0
+Belgium,Germany,66482.0,53244.0,65069.0,73715.0
+Belgium,Italy,73985.0,75839.0,76571.0,75409.0
+Belgium,Japan,13449.0,9835.0,5685.0,4803.0
+Belgium,Netherlands,155722.0,160425.0,147937.0,157519.0
+Belgium,Sweden,2440.0,1717.0,2097.0,2129.0
+Belgium,Switzerland,10831.0,9720.0,9616.0,9504.0
+Belgium,United Kingdom,124049.0,132904.0,102982.0,110986.0
+Belgium,United States,56728.0,63577.0,68117.0,110126.0
+Canada,Belgium,,,,
+Canada,France,,,,
+Canada,Germany,,,,
+Canada,Italy,,,,
+Canada,Japan,,,,
+Canada,Netherlands,,,,
+Canada,Sweden,,,,
+Canada,Switzerland,,,,
+Canada,United Kingdom,,,,
+Canada,United States,,,,
+France,Belgium,65796.0,65409.0,65559.0,55607.0
+France,Canada,14158.0,16141.0,16226.0,15214.0
+France,Germany,110995.0,116018.0,126322.0,126044.0
+France,Italy,129148.0,126552.0,112560.0,123765.0
+France,Japan,109207.0,116487.0,141591.0,93075.0
+France,Netherlands,81459.0,74649.0,79603.0,79516.0
+France,Sweden,8066.0,9336.0,7103.0,8117.0
+France,Switzerland,37701.0,40397.0,40296.0,30767.0
+France,United Kingdom,226986.0,224102.0,229243.0,216878.0
+France,United States,418055.0,426766.0,435915.0,406435.0
+Germany,Belgium,46959.0,53323.0,56049.0,65831.0
+Germany,Canada,20499.0,24069.0,24670.0,22318.0
+Germany,France,149594.0,173779.0,190924.0,200353.0
+Germany,Italy,172220.0,183973.0,186741.0,180270.0
+Germany,Japan,73447.0,91428.0,96354.0,106471.0
+Germany,Netherlands,123524.0,136317.0,131961.0,134890.0
+Germany,Sweden,24202.0,27546.0,27381.0,29548.0
+Germany,Switzerland,45876.0,51281.0,50735.0,53693.0
+Germany,United Kingdom,565564.0,676562.0,716293.0,724274.0
+Germany,United States,564864.0,559100.0,553022.0,562055.0
+Italy,Belgium,5669.0,5962.0,4629.0,5173.0
+Italy,Canada,624.0,722.0,564.0,628.0
+Italy,France,23053.0,21389.0,22223.0,26775.0
+Italy,Germany,34446.0,37323.0,38723.0,41847.0
+Italy,Japan,5163.0,4403.0,4762.0,3454.0
+Italy,Netherlands,13765.0,14521.0,13580.0,12815.0
+Italy,Sweden,1258.0,1207.0,1234.0,1188.0
+Italy,Switzerland,6530.0,6117.0,5719.0,6569.0
+Italy,United Kingdom,27187.0,35685.0,30790.0,31492.0
+Italy,United States,30822.0,31449.0,32232.0,32870.0
+Japan,Belgium,18546.0,13852.0,12914.0,14125.0
+Japan,Canada,31454.0,27156.0,23391.0,22334.0
+Japan,France,83138.0,79171.0,78058.0,77578.0
+Japan,Germany,106207.0,99361.0,103701.0,90298.0
+Japan,Italy,35393.0,34385.0,34029.0,37449.0
+Japan,Netherlands,35802.0,33040.0,35544.0,35923.0
+Japan,Sweden,8898.0,8754.0,7593.0,7675.0
+Japan,Switzerland,12968.0,11491.0,10736.0,11280.0
+Japan,United Kingdom,90062.0,90566.0,91588.0,90914.0
+Japan,United States,720922.0,653051.0,574108.0,534627.0
+Netherlands,Belgium,,,,
+Netherlands,Canada,28610.0,26691.0,22682.0,23849.0
+Netherlands,France,89144.0,96941.0,92731.0,105821.0
+Netherlands,Germany,193057.0,206511.0,204305.0,218274.0
+Netherlands,Italy,73902.0,80134.0,73661.0,70966.0
+Netherlands,Japan,53487.0,62595.0,62818.0,69366.0
+Netherlands,Sweden,13987.0,15348.0,16898.0,16912.0
+Netherlands,Switzerland,10794.0,14369.0,12474.0,15671.0
+Netherlands,United Kingdom,233283.0,233078.0,226540.0,241884.0
+Netherlands,United States,450569.0,434522.0,416871.0,405177.0
+Sweden,Belgium,3124.0,2449.0,2851.0,
+Sweden,Canada,1157.0,910.0,947.0,
+Sweden,France,3930.0,5171.0,4768.0,
+Sweden,Germany,80256.0,83880.0,79699.0,
+Sweden,Italy,3009.0,2466.0,2307.0,
+Sweden,Japan,1505.0,1091.0,444.0,
+Sweden,Netherlands,6355.0,5561.0,5433.0,
+Sweden,Switzerland,1464.0,1568.0,1506.0,
+Sweden,United Kingdom,36247.0,37684.0,35550.0,
+Sweden,United States,36794.0,37404.0,34018.0,
+Switzerland,Belgium,,,,
+Switzerland,Canada,12077.0,14012.0,13023.0,
+Switzerland,France,58416.0,60812.0,64884.0,
+Switzerland,Germany,99156.0,101560.0,95118.0,
+Switzerland,Italy,34497.0,43699.0,41698.0,
+Switzerland,Japan,,,,
+Switzerland,Netherlands,,,,
+Switzerland,Sweden,,,,
+Switzerland,United Kingdom,242081.0,226668.0,222378.0,
+Switzerland,United States,968335.0,1008279.0,983601.0,
+United Kingdom,Belgium,44089.0,57838.0,56179.0,54822.0
+United Kingdom,Canada,67229.0,65725.0,63564.0,61026.0
+United Kingdom,France,137872.0,136205.0,132403.0,154725.0
+United Kingdom,Germany,151603.0,182316.0,153235.0,150228.0
+United Kingdom,Italy,62824.0,67151.0,74885.0,68232.0
+United Kingdom,Japan,71534.0,62693.0,67991.0,69661.0
+United Kingdom,Netherlands,75819.0,102891.0,92936.0,90384.0
+United Kingdom,Sweden,15238.0,17309.0,14532.0,15558.0
+United Kingdom,Switzerland,36751.0,33968.0,28655.0,38076.0
+United Kingdom,United States,914608.0,932326.0,860778.0,854251.0
+United States,Belgium,16560.0,20326.0,21019.0,20263.0
+United States,Canada,41123.0,38954.0,36776.0,39772.0
+United States,France,42588.0,39925.0,40048.0,39542.0
+United States,Germany,107102.0,121312.0,123929.0,125288.0
+United States,Italy,39398.0,36615.0,37066.0,36944.0
+United States,Japan,45793.0,52573.0,73821.0,76490.0
+United States,Netherlands,41855.0,43412.0,43276.0,42457.0
+United States,Sweden,10212.0,11234.0,8582.0,10209.0
+United States,Switzerland,16027.0,15808.0,16137.0,20124.0
+United States,United Kingdom,150379.0,150843.0,130470.0,127393.0
+""

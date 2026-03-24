@@ -1,0 +1,33 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2639
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 Times-Roman;}
+{\colortbl;\red255\green255\blue255;\red11\green76\blue180;\red26\green26\blue26;\red26\green26\blue26;
+}
+{\*\expandedcolortbl;;\cssrgb\c1961\c38824\c75686;\cssrgb\c13333\c13333\c13333;\cssrgb\c13333\c13333\c13333;
+}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 Txt README for the dataset of  food security \
+\
+     1- The data was extracted from : {\field{\*\fldinst{HYPERLINK "https://wits.worldbank.org/WITS/WITS/QuickQuery/ComtradeByProduct/ComtradeByProduct.aspx?Page=COMTRADEByProduct#v"}}{\fldrslt \AppleTypeServices\AppleTypeServicesF65539 \cf2 \expnd0\expndtw0\kerning0
+\ul \ulc2 \outl0\strokewidth0 \strokec2 https://wits.worldbank.org/WITS/WITS/QuickQuery/ComtradeByProduct/ComtradeByProduct.aspx?Page=COMTRADEByProduct#v}}\cf3 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 \'a0\
+\
+     2- the observation \
+             - Here the data is grouped in to two groups for export and import to show the network food flows between European\'92s countries, where there are 23 countries.\
+             - The fist two column  \'93origin , And destination \'93 show the trade flow between countries \'93from - to\'94.\
+             - The last column of total food value (trade value in 1000 USD)  shows the total sum of food where there were three food selected ( "Meat and edible offal, of the poult", "Rice.", "Wheat and meslin.\'94) \
+                Added considered to flow of origin to destination.\
+          \
+     3- Period\
+             The data used collected on the year 2018\
+     4- Preprocess\
+            - from the original data I selected six columns and rename them.\
+                                "ReporterName"                    ~ "origin","PartnerName"            ~ "destination","TradeValue in 1000 USD" ~ "value",  "Year"                   ~ "year", "ProductDescription"     ~ "prod_desc",\
+                                 "TradeFlowName"          ~ "flow_type\'94.\
+            - then separated two dataset considering the flow_ type having data for import and data for export\
+            - in each flow type I  calculated \cf4 \outl0\strokewidth0 the total sum of food where there were three food selected ( "Meat and edible offal, of the poult", "Rice.", "Wheat and meslin.\'94), \
+\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+\cf4                 Added considered to flow of origin to destination.\
+           - at the end the table was with three column source as \'94origin\'94, target as \'93destination\'94 and weight as \'93 total food value\'94.\
+           - then using the new data to show the visualizasion of the food flow which is direct flow.  }

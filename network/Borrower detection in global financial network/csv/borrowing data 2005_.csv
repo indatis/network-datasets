@@ -1,0 +1,111 @@
+"origin","destination","2005_Q4","2005_Q3","2005_Q2","2005_Q1"
+"Belgium","Canada",2848,3715,3226,3624
+"Belgium","France",74955,67963,75660,73760
+"Belgium","Germany",66482,53244,65069,73715
+"Belgium","Italy",73985,75839,76571,75409
+"Belgium","Japan",13449,9835,5685,4803
+"Belgium","Netherlands",155722,160425,147937,157519
+"Belgium","Sweden",2440,1717,2097,2129
+"Belgium","Switzerland",10831,9720,9616,9504
+"Belgium","United Kingdom",124049,132904,102982,110986
+"Belgium","United States",56728,63577,68117,110126
+"Canada","Belgium",0,0,0,0
+"Canada","France",0,0,0,0
+"Canada","Germany",0,0,0,0
+"Canada","Italy",0,0,0,0
+"Canada","Japan",0,0,0,0
+"Canada","Netherlands",0,0,0,0
+"Canada","Sweden",0,0,0,0
+"Canada","Switzerland",0,0,0,0
+"Canada","United Kingdom",0,0,0,0
+"Canada","United States",0,0,0,0
+"France","Belgium",65796,65409,65559,55607
+"France","Canada",14158,16141,16226,15214
+"France","Germany",110995,116018,126322,126044
+"France","Italy",129148,126552,112560,123765
+"France","Japan",109207,116487,141591,93075
+"France","Netherlands",81459,74649,79603,79516
+"France","Sweden",8066,9336,7103,8117
+"France","Switzerland",37701,40397,40296,30767
+"France","United Kingdom",226986,224102,229243,216878
+"France","United States",418055,426766,435915,406435
+"Germany","Belgium",46959,53323,56049,65831
+"Germany","Canada",20499,24069,24670,22318
+"Germany","France",149594,173779,190924,200353
+"Germany","Italy",172220,183973,186741,180270
+"Germany","Japan",73447,91428,96354,106471
+"Germany","Netherlands",123524,136317,131961,134890
+"Germany","Sweden",24202,27546,27381,29548
+"Germany","Switzerland",45876,51281,50735,53693
+"Germany","United Kingdom",565564,676562,716293,724274
+"Germany","United States",564864,559100,553022,562055
+"Italy","Belgium",5669,5962,4629,5173
+"Italy","Canada",624,722,564,628
+"Italy","France",23053,21389,22223,26775
+"Italy","Germany",34446,37323,38723,41847
+"Italy","Japan",5163,4403,4762,3454
+"Italy","Netherlands",13765,14521,13580,12815
+"Italy","Sweden",1258,1207,1234,1188
+"Italy","Switzerland",6530,6117,5719,6569
+"Italy","United Kingdom",27187,35685,30790,31492
+"Italy","United States",30822,31449,32232,32870
+"Japan","Belgium",18546,13852,12914,14125
+"Japan","Canada",31454,27156,23391,22334
+"Japan","France",83138,79171,78058,77578
+"Japan","Germany",106207,99361,103701,90298
+"Japan","Italy",35393,34385,34029,37449
+"Japan","Netherlands",35802,33040,35544,35923
+"Japan","Sweden",8898,8754,7593,7675
+"Japan","Switzerland",12968,11491,10736,11280
+"Japan","United Kingdom",90062,90566,91588,90914
+"Japan","United States",720922,653051,574108,534627
+"Netherlands","Belgium",0,0,0,0
+"Netherlands","Canada",28610,26691,22682,23849
+"Netherlands","France",89144,96941,92731,105821
+"Netherlands","Germany",193057,206511,204305,218274
+"Netherlands","Italy",73902,80134,73661,70966
+"Netherlands","Japan",53487,62595,62818,69366
+"Netherlands","Sweden",13987,15348,16898,16912
+"Netherlands","Switzerland",10794,14369,12474,15671
+"Netherlands","United Kingdom",233283,233078,226540,241884
+"Netherlands","United States",450569,434522,416871,405177
+"Sweden","Belgium",3124,2449,2851,0
+"Sweden","Canada",1157,910,947,0
+"Sweden","France",3930,5171,4768,0
+"Sweden","Germany",80256,83880,79699,0
+"Sweden","Italy",3009,2466,2307,0
+"Sweden","Japan",1505,1091,444,0
+"Sweden","Netherlands",6355,5561,5433,0
+"Sweden","Switzerland",1464,1568,1506,0
+"Sweden","United Kingdom",36247,37684,35550,0
+"Sweden","United States",36794,37404,34018,0
+"Switzerland","Belgium",0,0,0,0
+"Switzerland","Canada",12077,14012,13023,0
+"Switzerland","France",58416,60812,64884,0
+"Switzerland","Germany",99156,101560,95118,0
+"Switzerland","Italy",34497,43699,41698,0
+"Switzerland","Japan",0,0,0,0
+"Switzerland","Netherlands",0,0,0,0
+"Switzerland","Sweden",0,0,0,0
+"Switzerland","United Kingdom",242081,226668,222378,0
+"Switzerland","United States",968335,1008279,983601,0
+"United Kingdom","Belgium",44089,57838,56179,54822
+"United Kingdom","Canada",67229,65725,63564,61026
+"United Kingdom","France",137872,136205,132403,154725
+"United Kingdom","Germany",151603,182316,153235,150228
+"United Kingdom","Italy",62824,67151,74885,68232
+"United Kingdom","Japan",71534,62693,67991,69661
+"United Kingdom","Netherlands",75819,102891,92936,90384
+"United Kingdom","Sweden",15238,17309,14532,15558
+"United Kingdom","Switzerland",36751,33968,28655,38076
+"United Kingdom","United States",914608,932326,860778,854251
+"United States","Belgium",16560,20326,21019,20263
+"United States","Canada",41123,38954,36776,39772
+"United States","France",42588,39925,40048,39542
+"United States","Germany",107102,121312,123929,125288
+"United States","Italy",39398,36615,37066,36944
+"United States","Japan",45793,52573,73821,76490
+"United States","Netherlands",41855,43412,43276,42457
+"United States","Sweden",10212,11234,8582,10209
+"United States","Switzerland",16027,15808,16137,20124
+"United States","United Kingdom",150379,150843,130470,127393

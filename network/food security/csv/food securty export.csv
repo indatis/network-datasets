@@ -1,0 +1,512 @@
+"origin","destination","total_food_value"
+"Austria","Belgium",96.195
+"Austria","Bulgaria",5328.999
+"Austria","Croatia",330.107
+"Austria","Cyprus",10.587
+"Austria","Czech Republic",2245.312
+"Austria","Denmark",438.128
+"Austria","Estonia",0.984
+"Austria","Finland",1.08
+"Austria","France",2660.659
+"Austria","Germany",197550.942
+"Austria","Greece",3590.056
+"Austria","Hungary",24388.895
+"Austria","Italy",114920.068
+"Austria","Latvia",0.11
+"Austria","Lithuania",90.755
+"Austria","Luxembourg",2191.375
+"Austria","Malta",775.259
+"Austria","Netherlands",4498.294
+"Austria","Poland",779.475
+"Austria","Portugal",12.695
+"Austria","Romania",3646.53
+"Austria","Slovak Republic",6558.815
+"Austria","Slovenia",8184.432
+"Austria","Spain",6.909
+"Austria","Sweden",144.682
+"Belgium","Austria",9011.581
+"Belgium","Bulgaria",563.816
+"Belgium","Croatia",17.359
+"Belgium","Cyprus",750.866
+"Belgium","Czech Republic",4490.878
+"Belgium","Denmark",7682.025
+"Belgium","Estonia",986.078
+"Belgium","Finland",3893.323
+"Belgium","France",485154.209
+"Belgium","Germany",163312.956
+"Belgium","Greece",11916.744
+"Belgium","Hungary",4376.877
+"Belgium","Ireland",10105.872
+"Belgium","Italy",24242.838
+"Belgium","Latvia",143.238
+"Belgium","Lithuania",496.162
+"Belgium","Luxembourg",29142.342
+"Belgium","Malta",1029.96
+"Belgium","Netherlands",382185.994
+"Belgium","Poland",7132.574
+"Belgium","Portugal",1478.594
+"Belgium","Romania",1926.391
+"Belgium","Slovak Republic",15.407
+"Belgium","Slovenia",649.002
+"Belgium","Spain",19595.325
+"Belgium","Sweden",11109.746
+"Bulgaria","Austria",92.563
+"Bulgaria","Belgium",21714.269
+"Bulgaria","Croatia",55.839
+"Bulgaria","Cyprus",8728.992
+"Bulgaria","Czech Republic",1610.319
+"Bulgaria","Denmark",111.458
+"Bulgaria","France",77684.484
+"Bulgaria","Germany",64332.8
+"Bulgaria","Greece",127014.06
+"Bulgaria","Hungary",781.065
+"Bulgaria","Ireland",46588.397
+"Bulgaria","Italy",120715.86
+"Bulgaria","Lithuania",89.776
+"Bulgaria","Malta",48.075
+"Bulgaria","Netherlands",50165.807
+"Bulgaria","Poland",962.958
+"Bulgaria","Portugal",32116.967
+"Bulgaria","Romania",99678.699
+"Bulgaria","Slovak Republic",226.262
+"Bulgaria","Slovenia",62.942
+"Bulgaria","Spain",278056.173
+"Bulgaria","Sweden",5422.037
+"Croatia","Austria",11703.581
+"Croatia","Bulgaria",104.691
+"Croatia","Czech Republic",0.001
+"Croatia","Denmark",2.124
+"Croatia","France",1132.463
+"Croatia","Germany",436.078
+"Croatia","Hungary",723.769
+"Croatia","Italy",70262.621
+"Croatia","Latvia",1.394
+"Croatia","Lithuania",19.893
+"Croatia","Luxembourg",0.088
+"Croatia","Netherlands",97.999
+"Croatia","Poland",142.544
+"Croatia","Romania",329.979
+"Croatia","Slovak Republic",114.676
+"Croatia","Slovenia",15060.426
+"Croatia","Sweden",23.986
+"Cyprus","Bulgaria",16.937
+"Cyprus","Greece",3.105
+"Cyprus","Italy",57.925
+"Cyprus","Portugal",12.158
+"Cyprus","Romania",53.925
+"Czech Republic","Austria",48036.118
+"Czech Republic","Belgium",432.882
+"Czech Republic","Bulgaria",71.146
+"Czech Republic","Croatia",682.606
+"Czech Republic","Cyprus",43.573
+"Czech Republic","Denmark",79.887
+"Czech Republic","Estonia",34.698
+"Czech Republic","Finland",3.343
+"Czech Republic","France",855.116
+"Czech Republic","Germany",309126.172
+"Czech Republic","Greece",51.37
+"Czech Republic","Hungary",6698.766
+"Czech Republic","Italy",14985.033
+"Czech Republic","Latvia",93.18
+"Czech Republic","Lithuania",127.223
+"Czech Republic","Luxembourg",0.928
+"Czech Republic","Malta",61.747
+"Czech Republic","Netherlands",1530.756
+"Czech Republic","Poland",51604.559
+"Czech Republic","Portugal",0.149
+"Czech Republic","Romania",350.903
+"Czech Republic","Slovak Republic",49204.174
+"Czech Republic","Slovenia",272.386
+"Czech Republic","Spain",52.242
+"Czech Republic","Sweden",27.315
+"Denmark","Austria",797.946
+"Denmark","Belgium",1943.885
+"Denmark","Bulgaria",1461.688
+"Denmark","Croatia",32.764
+"Denmark","Czech Republic",991.273
+"Denmark","Estonia",2041.874
+"Denmark","Finland",4990.05
+"Denmark","France",7371.003
+"Denmark","Germany",26445.349
+"Denmark","Greece",916.873
+"Denmark","Hungary",4.976
+"Denmark","Ireland",13852.094
+"Denmark","Italy",671.247
+"Denmark","Latvia",123.828
+"Denmark","Lithuania",503.682
+"Denmark","Luxembourg",1.188
+"Denmark","Malta",141.203
+"Denmark","Netherlands",33545.465
+"Denmark","Poland",3274.029
+"Denmark","Portugal",43.181
+"Denmark","Romania",1011.049
+"Denmark","Slovak Republic",41.459
+"Denmark","Slovenia",2.881
+"Denmark","Spain",10249.035
+"Denmark","Sweden",50145.143
+"Estonia","Austria",0.001
+"Estonia","Czech Republic",14.911
+"Estonia","Denmark",4146.38
+"Estonia","Finland",6817.093
+"Estonia","France",79.542
+"Estonia","Germany",5773.348
+"Estonia","Hungary",4.644
+"Estonia","Ireland",503.413
+"Estonia","Italy",40.86
+"Estonia","Latvia",9166.432
+"Estonia","Lithuania",15409.134
+"Estonia","Netherlands",1296.384
+"Estonia","Poland",26.75
+"Estonia","Portugal",54.574
+"Estonia","Romania",544.621
+"Estonia","Spain",11887.058
+"Estonia","Sweden",6032.895
+"Finland","Belgium",3.104
+"Finland","Bulgaria",360.748
+"Finland","Denmark",1216.476
+"Finland","Estonia",5888.466
+"Finland","France",68.274
+"Finland","Germany",285.245
+"Finland","Greece",258.324
+"Finland","Ireland",1375.415
+"Finland","Latvia",711.073
+"Finland","Lithuania",1131.155
+"Finland","Luxembourg",0.876
+"Finland","Netherlands",1384.755
+"Finland","Poland",405.43
+"Finland","Portugal",22.81
+"Finland","Romania",466.727
+"Finland","Slovak Republic",40.147
+"Finland","Spain",30.881
+"Finland","Sweden",1961.072
+"France","Austria",8323.171
+"France","Belgium",692893.817
+"France","Bulgaria",15924.711
+"France","Croatia",221.662
+"France","Cyprus",7359.33
+"France","Czech Republic",10464.554
+"France","Denmark",31768.404
+"France","Estonia",802.771
+"France","Finland",2971.667
+"France","Germany",318425.342
+"France","Greece",26675.438
+"France","Hungary",5346.697
+"France","Ireland",33404.767
+"France","Italy",366677.976
+"France","Latvia",1312.271
+"France","Lithuania",637.243
+"France","Luxembourg",35108.241
+"France","Malta",668.147
+"France","Netherlands",551489.113
+"France","Poland",5094.575
+"France","Portugal",169035.422
+"France","Romania",2695
+"France","Slovak Republic",398.319
+"France","Slovenia",290.25
+"France","Spain",379697.868
+"France","Sweden",10465.573
+"Germany","Austria",165803.102
+"Germany","Belgium",187639.268
+"Germany","Bulgaria",5086.926
+"Germany","Croatia",845.644
+"Germany","Cyprus",2657.53
+"Germany","Czech Republic",27591.503
+"Germany","Denmark",65736.684
+"Germany","Estonia",2141.984
+"Germany","Finland",3909.825
+"Germany","France",169036.954
+"Germany","Greece",9497.726
+"Germany","Hungary",15493.536
+"Germany","Ireland",43256.133
+"Germany","Italy",113593.456
+"Germany","Latvia",550.766
+"Germany","Lithuania",1498.91
+"Germany","Luxembourg",10794.769
+"Germany","Malta",589.005
+"Germany","Netherlands",462009.79
+"Germany","Poland",71429.812
+"Germany","Portugal",25179.084
+"Germany","Romania",22469.539
+"Germany","Slovak Republic",2544.452
+"Germany","Slovenia",8143.167
+"Germany","Spain",53676.065
+"Germany","Sweden",25969.169
+"Hungary","Austria",171378.298
+"Hungary","Belgium",35596.791
+"Hungary","Bulgaria",11885.372
+"Hungary","Croatia",37938.413
+"Hungary","Cyprus",5746.571
+"Hungary","Czech Republic",24448.122
+"Hungary","Denmark",5498.342
+"Hungary","Estonia",1799.739
+"Hungary","Finland",88.94
+"Hungary","France",84167.592
+"Hungary","Germany",130633.588
+"Hungary","Greece",14037.629
+"Hungary","Ireland",1583.704
+"Hungary","Italy",209022.056
+"Hungary","Latvia",269.146
+"Hungary","Lithuania",752.25
+"Hungary","Luxembourg",222.048
+"Hungary","Malta",1174.6
+"Hungary","Netherlands",20122.563
+"Hungary","Poland",9754.845
+"Hungary","Portugal",1483.675
+"Hungary","Romania",110997.495
+"Hungary","Slovak Republic",50872.033
+"Hungary","Slovenia",29005.91
+"Hungary","Spain",8693.379
+"Hungary","Sweden",528.502
+"Ireland","Austria",229.288
+"Ireland","Belgium",46.461
+"Ireland","Cyprus",3.263
+"Ireland","Denmark",3531.455
+"Ireland","Finland",0.435
+"Ireland","France",6674.908
+"Ireland","Germany",1698.104
+"Ireland","Greece",62.198
+"Ireland","Hungary",131.803
+"Ireland","Italy",39.332
+"Ireland","Malta",13.381
+"Ireland","Netherlands",2962.449
+"Ireland","Poland",27.991
+"Ireland","Sweden",6.546
+"Italy","Austria",46885.581
+"Italy","Belgium",38887.765
+"Italy","Bulgaria",5823.985
+"Italy","Croatia",7155.957
+"Italy","Cyprus",503.465
+"Italy","Czech Republic",20005.372
+"Italy","Denmark",7609.816
+"Italy","Estonia",336.074
+"Italy","Finland",8596.026
+"Italy","France",162500.91
+"Italy","Germany",270025.317
+"Italy","Greece",38739.312
+"Italy","Hungary",10282.929
+"Italy","Ireland",7609.475
+"Italy","Latvia",969.459
+"Italy","Lithuania",1154.907
+"Italy","Luxembourg",242.005
+"Italy","Malta",11840.152
+"Italy","Netherlands",27096.038
+"Italy","Poland",27606.858
+"Italy","Portugal",24907.218
+"Italy","Romania",9146.114
+"Italy","Slovak Republic",10081.875
+"Italy","Slovenia",10954.924
+"Italy","Spain",22127.355
+"Italy","Sweden",10586.684
+"Latvia","Austria",37.91
+"Latvia","Belgium",154.26
+"Latvia","Bulgaria",161.586
+"Latvia","Czech Republic",999.189
+"Latvia","Denmark",32981.206
+"Latvia","Estonia",15065.573
+"Latvia","Finland",2698.424
+"Latvia","France",122.929
+"Latvia","Germany",5017.293
+"Latvia","Greece",0.278
+"Latvia","Hungary",86.351
+"Latvia","Ireland",8669.897
+"Latvia","Lithuania",25246.068
+"Latvia","Netherlands",995.323
+"Latvia","Poland",294.722
+"Latvia","Portugal",1109.388
+"Latvia","Romania",154.156
+"Latvia","Spain",47720.743
+"Latvia","Sweden",31333.427
+"Lithuania","Austria",2023.812
+"Lithuania","Belgium",2.424
+"Lithuania","Bulgaria",84.111
+"Lithuania","Croatia",120.834
+"Lithuania","Cyprus",2753.179
+"Lithuania","Czech Republic",1330.298
+"Lithuania","Denmark",5773.46
+"Lithuania","Estonia",11967.458
+"Lithuania","Finland",6205.663
+"Lithuania","France",15319.43
+"Lithuania","Germany",20165.827
+"Lithuania","Greece",838.121
+"Lithuania","Hungary",263.622
+"Lithuania","Ireland",1196.182
+"Lithuania","Italy",9075.995
+"Lithuania","Latvia",88209.36
+"Lithuania","Luxembourg",10.011
+"Lithuania","Malta",19.741
+"Lithuania","Netherlands",37110.414
+"Lithuania","Poland",6530.136
+"Lithuania","Portugal",9756.501
+"Lithuania","Romania",1616.471
+"Lithuania","Slovak Republic",879.363
+"Lithuania","Spain",41164.202
+"Lithuania","Sweden",7990.404
+"Luxembourg","Belgium",3066.266
+"Luxembourg","Czech Republic",0.292
+"Luxembourg","France",2067.672
+"Luxembourg","Germany",5695.057
+"Luxembourg","Italy",36.09
+"Luxembourg","Lithuania",34.543
+"Luxembourg","Netherlands",1504.082
+"Luxembourg","Portugal",0
+"Luxembourg","Romania",0.105
+"Luxembourg","Spain",0.04
+"Malta","Czech Republic",0.033
+"Malta","France",0.032
+"Malta","Italy",0.874
+"Malta","Netherlands",1.18
+"Malta","Romania",0.673
+"Netherlands","Austria",18637.533
+"Netherlands","Belgium",282508.217
+"Netherlands","Bulgaria",6159.143
+"Netherlands","Croatia",12853.653
+"Netherlands","Cyprus",15238.569
+"Netherlands","Czech Republic",14041.048
+"Netherlands","Denmark",99908.51
+"Netherlands","Estonia",1407.942
+"Netherlands","Finland",7662.607
+"Netherlands","France",318719.507
+"Netherlands","Germany",800130.791
+"Netherlands","Greece",29705.613
+"Netherlands","Hungary",10225.934
+"Netherlands","Ireland",228666.922
+"Netherlands","Italy",40904.586
+"Netherlands","Latvia",1716.586
+"Netherlands","Lithuania",1892.595
+"Netherlands","Luxembourg",2742.988
+"Netherlands","Malta",6834.925
+"Netherlands","Poland",18839.999
+"Netherlands","Portugal",9498.28
+"Netherlands","Romania",16451.783
+"Netherlands","Slovak Republic",4238.188
+"Netherlands","Slovenia",615.682
+"Netherlands","Spain",46981.679
+"Netherlands","Sweden",26348.368
+"Poland","Austria",47575.109
+"Poland","Belgium",98157.301
+"Poland","Bulgaria",57327.904
+"Poland","Croatia",14664.824
+"Poland","Cyprus",6013.124
+"Poland","Czech Republic",199296.128
+"Poland","Denmark",44706.042
+"Poland","Estonia",12390.591
+"Poland","Finland",6181.687
+"Poland","France",240271.547
+"Poland","Germany",780097.2
+"Poland","Greece",18404.913
+"Poland","Hungary",67677.54
+"Poland","Ireland",56671.772
+"Poland","Italy",28847.717
+"Poland","Latvia",27644.408
+"Poland","Lithuania",60148.477
+"Poland","Luxembourg",14.081
+"Poland","Malta",3416.119
+"Poland","Netherlands",227806.226
+"Poland","Portugal",17930.19
+"Poland","Romania",40365.363
+"Poland","Slovak Republic",117190.67
+"Poland","Slovenia",12223.535
+"Poland","Spain",109233.953
+"Poland","Sweden",19293.432
+"Portugal","Austria",21.539
+"Portugal","Belgium",2418.505
+"Portugal","Cyprus",53.06
+"Portugal","Czech Republic",49.019
+"Portugal","Denmark",41.705
+"Portugal","Estonia",85.292
+"Portugal","Finland",29.643
+"Portugal","France",10552.109
+"Portugal","Germany",949.54
+"Portugal","Greece",128.428
+"Portugal","Hungary",25.528
+"Portugal","Ireland",19.153
+"Portugal","Italy",1679.322
+"Portugal","Lithuania",3.503
+"Portugal","Luxembourg",1930.892
+"Portugal","Malta",81.977
+"Portugal","Netherlands",2363.487
+"Portugal","Poland",618.335
+"Portugal","Romania",125.63
+"Portugal","Spain",48782.055
+"Portugal","Sweden",282.331
+"Romania","Austria",9840.051
+"Romania","Belgium",21450.799
+"Romania","Bulgaria",22097.904
+"Romania","Croatia",3110.283
+"Romania","Cyprus",3712.476
+"Romania","Czech Republic",8285.772
+"Romania","Denmark",0.29
+"Romania","Estonia",147.128
+"Romania","Finland",3.38
+"Romania","France",39171.994
+"Romania","Germany",81300.824
+"Romania","Greece",29858.306
+"Romania","Hungary",16492.522
+"Romania","Ireland",15269.682
+"Romania","Italy",125880.266
+"Romania","Latvia",13.921
+"Romania","Lithuania",70.481
+"Romania","Luxembourg",0.106
+"Romania","Malta",3357.183
+"Romania","Netherlands",50402.416
+"Romania","Poland",1046.396
+"Romania","Portugal",4947.379
+"Romania","Slovak Republic",2598.136
+"Romania","Slovenia",178.734
+"Romania","Spain",178291.293
+"Romania","Sweden",338.255
+"Slovak Republic","Austria",38320.159
+"Slovak Republic","Bulgaria",907.986
+"Slovak Republic","Croatia",788.425
+"Slovak Republic","Czech Republic",27937.27
+"Slovak Republic","Denmark",1171.161
+"Slovak Republic","Estonia",1320.46
+"Slovak Republic","France",1503.648
+"Slovak Republic","Germany",49260.004
+"Slovak Republic","Greece",2009.408
+"Slovak Republic","Hungary",55187.195
+"Slovak Republic","Ireland",537.003
+"Slovak Republic","Italy",33527.474
+"Slovak Republic","Latvia",2584.035
+"Slovak Republic","Lithuania",723.865
+"Slovak Republic","Malta",152.564
+"Slovak Republic","Netherlands",1128.22
+"Slovak Republic","Poland",61640.718
+"Slovak Republic","Romania",3617.472
+"Slovak Republic","Slovenia",1613.07
+"Slovak Republic","Spain",48.675
+"Slovak Republic","Sweden",1289.234
+"Slovenia","Austria",20954.35
+"Slovenia","Bulgaria",6.562
+"Slovenia","Croatia",11526.866
+"Slovenia","Czech Republic",118.744
+"Slovenia","Estonia",0.045
+"Slovenia","France",38.447
+"Slovenia","Germany",1789.546
+"Slovenia","Hungary",2790.694
+"Slovenia","Italy",21098.764
+"Slovenia","Malta",0.194
+"Slovenia","Netherlands",24.077
+"Slovenia","Poland",720.954
+"Slovenia","Portugal",0.461
+"Slovenia","Romania",73.054
+"Slovenia","Slovak Republic",660.645
+"Slovenia","Spain",149.942
+"Slovenia","Sweden",887.193
+"Sweden","Austria",69.767
+"Sweden","Belgium",22.911
+"Sweden","Cyprus",20.607
+"Sweden","Denmark",56856.917
+"Sweden","Estonia",82.547
+"Sweden","Finland",4563.313
+"Sweden","France",281.141
+"Sweden","Germany",6542.011
+"Sweden","Ireland",6.793
+"Sweden","Latvia",77.135
+"Sweden","Lithuania",203.086
+"Sweden","Luxembourg",7.943
+"Sweden","Netherlands",2245.449
+"Sweden","Poland",1230.829
+"Sweden","Portugal",1525.901
+"Sweden","Slovak Republic",820.284
+"Sweden","Spain",27044.625
