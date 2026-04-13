@@ -71,6 +71,8 @@ View(fs_i)
 head(fs_im)
 View(fs_im)
 
+fs_im <- fs_im[fs_im$origin != fs_im$destination, ]
+
 #### extract the final data
 write.csv(fs_im, "network/food security/csv/food securty import.csv", row.names = FALSE)
 write.csv(fs_im, "network/food security/csv/food securty export.csv", row.names = FALSE)
