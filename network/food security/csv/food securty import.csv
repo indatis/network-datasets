@@ -189,7 +189,7 @@
 "France","Denmark",7392.344
 "France","Estonia",8.511
 "France","Finland",239.557
-"France","France",0
+
 "France","Germany",191467.588
 "France","Greece",1937.971
 "France","Hungary",84199.883
@@ -267,7 +267,7 @@
 "Ireland","Germany",41020.614
 "Ireland","Greece",43.583
 "Ireland","Hungary",2403.708
-"Ireland","Ireland",0
+
 "Ireland","Italy",6613.972
 "Ireland","Latvia",5742.444
 "Ireland","Lithuania",961.482
@@ -351,7 +351,7 @@
 "Luxembourg","Ireland",0.73
 "Luxembourg","Italy",458.646
 "Luxembourg","Lithuania",19.616
-"Luxembourg","Luxembourg",0
+
 "Luxembourg","Netherlands",7246.724
 "Luxembourg","Poland",342.616
 "Luxembourg","Portugal",1925.367
@@ -488,7 +488,7 @@
 "Slovak Republic","Poland",53397.692
 "Slovak Republic","Portugal",0.073
 "Slovak Republic","Romania",2724.323
-"Slovak Republic","Slovak Republic",0
+
 "Slovak Republic","Slovenia",637.267
 "Slovak Republic","Spain",928.364
 "Slovak Republic","Sweden",0.009
@@ -505,7 +505,7 @@
 "Slovenia","Poland",9075.432
 "Slovenia","Romania",110.156
 "Slovenia","Slovak Republic",824.005
-"Slovenia","Slovenia",0
+
 "Slovenia","Spain",691.277
 "Sweden","Austria",139.363
 "Sweden","Belgium",10232.554
